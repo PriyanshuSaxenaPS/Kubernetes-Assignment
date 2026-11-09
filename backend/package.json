@@ -1,0 +1,12 @@
+{
+  "name": "kubernetes-express-backend",
+  "version": "1.0.0",
+  "description": "Express backend for Kubernetes assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}
